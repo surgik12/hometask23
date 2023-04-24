@@ -15,7 +15,7 @@ function start(){
         number = 100;
     }
 
-    if (tryCount == 0){
+    if (tryCount == 1){
         compNumber.innerHTML = `Игра окончена! ${variant}`;
         return;
     } else {
